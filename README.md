@@ -5,7 +5,7 @@ Displays the following topic status:
 		-Speed
 		-Direction
 	Actuates the following services:
-		-Speed (max speed set in python script)
+		-Speed 
 		-Direction
 	Enable Service:
 		-On/Off
